@@ -1,3 +1,7 @@
+# no data loading or pdf
+*.pkl
+*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
